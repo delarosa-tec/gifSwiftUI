@@ -5,4 +5,4 @@ GIF project using SwiftUI
 
 Video Example:
 
-https://github.com/delarosa-tec/gifSwiftUI/blob/main/.github/VIDEO.mov
+[![Watch the video](https://github.com/delarosa-tec/gifSwiftUI/blob/main/.github/VIDEO.mov)]([https://github.com/delarosa-tec/gifSwiftUI/blob/main/.github/VIDEO.mov](https://github.com/delarosa-tec/gifSwiftUI/blob/main/.github/VIDEO.mov))
